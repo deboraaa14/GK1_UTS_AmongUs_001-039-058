@@ -1,0 +1,171 @@
+﻿  UTS_LabGK.cpp
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(12,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(13,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(45,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(47,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(47,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(48,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(48,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(49,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(49,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(50,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(50,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(55,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(55,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(55,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(58,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(58,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(58,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(62,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(63,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(69,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(98,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(98,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(98,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(102,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(102,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(102,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(101,64): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(101,57): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(101,51): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(101,45): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(101,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(101,22): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(106,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(106,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(106,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(107,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(110,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(112,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(114,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(115,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(115,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(115,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(124,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(126,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(126,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(127,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(127,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(129,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(129,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(130,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(130,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(139,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(141,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(144,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(144,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(145,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(146,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(147,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(147,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(156,37): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(156,32): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(156,27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(155,61): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(155,55): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(155,50): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(155,45): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(155,39): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(155,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(155,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(155,22): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(163,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(163,41): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(165,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(165,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(165,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(165,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(166,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(167,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(167,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(167,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(167,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(168,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(173,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(173,41): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(175,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(175,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(175,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(175,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(176,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(177,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(177,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(177,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(177,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(178,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(188,21): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(188,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(188,9): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(187,60): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(187,54): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(187,48): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(187,43): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(187,33): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(187,22): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(193,41): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(195,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(195,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(195,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(195,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(196,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(197,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(197,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(197,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(197,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(198,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(203,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(211,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(216,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(216,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(216,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(218,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(219,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(220,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(221,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(231,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(232,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(235,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(236,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(239,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(240,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(243,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(244,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(253,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(254,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(255,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(256,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(260,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(260,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(260,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(263,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(263,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(264,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(264,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(265,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(265,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(266,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(266,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(313,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(354,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(502,54): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(502,44): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(502,39): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(502,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(502,27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(502,21): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(503,54): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(503,44): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(503,39): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(503,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(503,27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(503,21): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(506,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(506,42): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(507,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(509,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(509,40): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(510,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(520,30): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(520,24): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\UTS_LabGK.cpp(520,18): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  UTS_LabGK.vcxproj -> D:\Kuliah\Athi\Sem 5\Lab Grafika Komputer\UTS_LabGK\Debug\UTS_LabGK.exe
